@@ -1,8 +1,5 @@
 export default class Locator
 {
-     
-    
-
     constructor()
     {
         var geo_options = {
@@ -32,7 +29,5 @@ export default class Locator
                     break;
             }
         },geo_options)
-    }
-   
-    
+    }   
 }
