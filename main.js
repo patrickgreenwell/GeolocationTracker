@@ -1,4 +1,5 @@
+import Locator from 'locator'
+
 var init= function(args) {
-    import Locator from './locator.js'
     const l = new Locator();
 }
